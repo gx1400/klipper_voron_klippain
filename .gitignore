@@ -1,4 +1,6 @@
-config/
-macros/
-moonraker/
-scripts/
+*.bkp
+.VERSION
+config
+macros
+moonraker
+scripts
